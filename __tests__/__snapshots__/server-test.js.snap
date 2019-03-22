@@ -1,0 +1,1905 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly with props 1`] = `
+<BVLinearGradient
+  colors={Array []}
+  locations={Array []}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <RCTSafeAreaView
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      onLayout={[Function]}
+    >
+      <RCTScrollView
+        bounces={false}
+        contentInset={
+          Object {
+            "bottom": 0,
+          }
+        }
+        getTextInputRefs={[Function]}
+        keyboardDismissMode="interactive"
+        keyboardShouldPersistTaps="handled"
+        onContentSizeChange={[Function]}
+        onLayout={[Function]}
+        onScroll={[Function]}
+        scrollEventThrottle={200}
+        scrollToBottomOnKBShow={false}
+        scrollToInputAdditionalOffset={75}
+        startScrolledToBottom={false}
+      >
+        <View>
+          <View>
+            <Image
+              resizeMode="stretch"
+              source={0}
+            />
+          </View>
+          <View
+            style={
+              Array [
+                undefined,
+                undefined,
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              source=""
+              style={
+                Object {
+                  "height": 100,
+                  "width": 200,
+                }
+              }
+            />
+          </View>
+          <View>
+            <TextInput
+              allowFontScaling={true}
+              autoCapitalize="none"
+              autoCorrect={false}
+              onChangeText={[Function]}
+              placeholder="[workspace].mongrov.com"
+              underlineColorAndroid="transparent"
+              value=""
+            />
+            <View
+              style={
+                Array [
+                  Array [
+                    undefined,
+                  ],
+                  false,
+                ]
+              }
+            >
+              <View
+                accessible={true}
+                isTVSelectable={true}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "backgroundColor": "#2089dc",
+                        "borderRadius": 3,
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                      Array [
+                        undefined,
+                      ],
+                      false,
+                      false,
+                      false,
+                      undefined,
+                    ]
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "color": "white",
+                          "fontSize": 18,
+                          "padding": 8,
+                          "textAlign": "center",
+                        },
+                        undefined,
+                        false,
+                        false,
+                      ]
+                    }
+                  >
+                    Confirm
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Array [
+                  Array [
+                    undefined,
+                  ],
+                  false,
+                ]
+              }
+            >
+              <View
+                accessible={true}
+                isTVSelectable={true}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "backgroundColor": "#2089dc",
+                        "borderRadius": 3,
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                      Array [
+                        undefined,
+                      ],
+                      false,
+                      false,
+                      false,
+                      undefined,
+                    ]
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "color": "white",
+                          "fontSize": 18,
+                          "padding": 8,
+                          "textAlign": "center",
+                        },
+                        undefined,
+                        false,
+                        false,
+                      ]
+                    }
+                  >
+                    Back
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </RCTScrollView>
+    </View>
+  </RCTSafeAreaView>
+</BVLinearGradient>
+`;
+
+exports[`render correctly without props 1`] = `
+<BVLinearGradient
+  colors={Array []}
+  locations={Array []}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <RCTSafeAreaView
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      onLayout={[Function]}
+    >
+      <RCTScrollView
+        bounces={false}
+        contentInset={
+          Object {
+            "bottom": 0,
+          }
+        }
+        getTextInputRefs={[Function]}
+        keyboardDismissMode="interactive"
+        keyboardShouldPersistTaps="handled"
+        onContentSizeChange={[Function]}
+        onLayout={[Function]}
+        onScroll={[Function]}
+        scrollEventThrottle={200}
+        scrollToBottomOnKBShow={false}
+        scrollToInputAdditionalOffset={75}
+        startScrolledToBottom={false}
+      >
+        <View>
+          <View>
+            <Image
+              resizeMode="stretch"
+              source={0}
+            />
+          </View>
+          <View
+            style={
+              Array [
+                undefined,
+                undefined,
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              source=""
+              style={
+                Object {
+                  "height": 100,
+                  "width": 200,
+                }
+              }
+            />
+          </View>
+          <View>
+            <TextInput
+              allowFontScaling={true}
+              autoCapitalize="none"
+              autoCorrect={false}
+              onChangeText={[Function]}
+              placeholder="[workspace].mongrov.com"
+              underlineColorAndroid="transparent"
+              value=""
+            />
+            <View
+              style={
+                Array [
+                  Array [
+                    undefined,
+                  ],
+                  false,
+                ]
+              }
+            >
+              <View
+                accessible={true}
+                isTVSelectable={true}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "backgroundColor": "#2089dc",
+                        "borderRadius": 3,
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                      Array [
+                        undefined,
+                      ],
+                      false,
+                      false,
+                      false,
+                      undefined,
+                    ]
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "color": "white",
+                          "fontSize": 18,
+                          "padding": 8,
+                          "textAlign": "center",
+                        },
+                        undefined,
+                        false,
+                        false,
+                      ]
+                    }
+                  >
+                    Confirm
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Array [
+                  Array [
+                    undefined,
+                  ],
+                  false,
+                ]
+              }
+            >
+              <View
+                accessible={true}
+                isTVSelectable={true}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "backgroundColor": "#2089dc",
+                        "borderRadius": 3,
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                      Array [
+                        undefined,
+                      ],
+                      false,
+                      false,
+                      false,
+                      undefined,
+                    ]
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "color": "white",
+                          "fontSize": 18,
+                          "padding": 8,
+                          "textAlign": "center",
+                        },
+                        undefined,
+                        false,
+                        false,
+                      ]
+                    }
+                  >
+                    Back
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </RCTScrollView>
+    </View>
+  </RCTSafeAreaView>
+</BVLinearGradient>
+`;
+
+exports[`renders an brandLogo 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <SetServer
+    brandLogo={12}
+    headerCurve={0}
+    onConfirmServer={[Function]}
+    safeBgColors={Array []}
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "children": <KeyboardAwareScrollView
+        bounces={false}
+        getTextInputRefs={[Function]}
+        keyboardDismissMode="interactive"
+        keyboardShouldPersistTaps="handled"
+        scrollToBottomOnKBShow={false}
+        scrollToInputAdditionalOffset={75}
+        startScrolledToBottom={false}
+      >
+        <Component>
+          <Image
+            resizeMode="stretch"
+            source={0}
+          />
+        </Component>
+        <Component
+          style={
+            Array [
+              undefined,
+              undefined,
+            ]
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source=""
+            style={
+              Object {
+                "height": 100,
+                "width": 200,
+              }
+            }
+          />
+        </Component>
+        <Component>
+          <TextInput
+            allowFontScaling={true}
+            autoCapitalize="none"
+            autoCorrect={false}
+            onChangeText={[Function]}
+            placeholder="[workspace].mongrov.com"
+            underlineColorAndroid="transparent"
+            value=""
+          />
+          <Button
+            buttonStyle={
+              Array [
+                undefined,
+              ]
+            }
+            color="#3E8EFF"
+            containerStyle={
+              Array [
+                undefined,
+              ]
+            }
+            onPress={[Function]}
+            title="Confirm"
+          />
+          <Button
+            buttonStyle={
+              Array [
+                undefined,
+              ]
+            }
+            color="#3E8EFF"
+            containerStyle={
+              Array [
+                undefined,
+              ]
+            }
+            onPress={[Function]}
+            title="Back"
+          />
+        </Component>
+      </KeyboardAwareScrollView>,
+      "onLayout": [Function],
+      "safeBgColors": Array [],
+      "safeGradLocations": Array [
+        0,
+        1,
+      ],
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "bounces": false,
+        "children": Array [
+          <Component>
+            <Image
+              resizeMode="stretch"
+              source={0}
+            />
+          </Component>,
+          <Component
+            style={
+              Array [
+                undefined,
+                undefined,
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              source=""
+              style={
+                Object {
+                  "height": 100,
+                  "width": 200,
+                }
+              }
+            />
+          </Component>,
+          <Component>
+            <TextInput
+              allowFontScaling={true}
+              autoCapitalize="none"
+              autoCorrect={false}
+              onChangeText={[Function]}
+              placeholder="[workspace].mongrov.com"
+              underlineColorAndroid="transparent"
+              value=""
+            />
+            <Button
+              buttonStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              color="#3E8EFF"
+              containerStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              onPress={[Function]}
+              title="Confirm"
+            />
+            <Button
+              buttonStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              color="#3E8EFF"
+              containerStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              onPress={[Function]}
+              title="Back"
+            />
+          </Component>,
+        ],
+        "getTextInputRefs": [Function],
+        "keyboardDismissMode": "interactive",
+        "keyboardShouldPersistTaps": "handled",
+        "scrollToBottomOnKBShow": false,
+        "scrollToInputAdditionalOffset": 75,
+        "startScrolledToBottom": false,
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "children": <Image
+              resizeMode="stretch"
+              source={0}
+            />,
+            "style": undefined,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "resizeMode": "stretch",
+              "source": 0,
+              "style": undefined,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "children": <Image
+              resizeMode="contain"
+              source=""
+              style={
+                Object {
+                  "height": 100,
+                  "width": 200,
+                }
+              }
+            />,
+            "style": Array [
+              undefined,
+              undefined,
+            ],
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "resizeMode": "contain",
+              "source": "",
+              "style": Object {
+                "height": 100,
+                "width": 200,
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "children": Array [
+              <TextInput
+                allowFontScaling={true}
+                autoCapitalize="none"
+                autoCorrect={false}
+                onChangeText={[Function]}
+                placeholder="[workspace].mongrov.com"
+                underlineColorAndroid="transparent"
+                value=""
+              />,
+              <Button
+                buttonStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                color="#3E8EFF"
+                containerStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                onPress={[Function]}
+                title="Confirm"
+              />,
+              <Button
+                buttonStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                color="#3E8EFF"
+                containerStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                onPress={[Function]}
+                title="Back"
+              />,
+            ],
+            "style": undefined,
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "allowFontScaling": true,
+                "autoCapitalize": "none",
+                "autoCorrect": false,
+                "onChangeText": [Function],
+                "placeholder": "[workspace].mongrov.com",
+                "style": undefined,
+                "underlineColorAndroid": "transparent",
+                "value": "",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "buttonStyle": Array [
+                  undefined,
+                ],
+                "color": "#3E8EFF",
+                "containerStyle": Array [
+                  undefined,
+                ],
+                "onPress": [Function],
+                "title": "Confirm",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "buttonStyle": Array [
+                  undefined,
+                ],
+                "color": "#3E8EFF",
+                "containerStyle": Array [
+                  undefined,
+                ],
+                "onPress": [Function],
+                "title": "Back",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+          ],
+          "type": [Function],
+        },
+      ],
+      "type": [Function],
+    },
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": <KeyboardAwareScrollView
+          bounces={false}
+          getTextInputRefs={[Function]}
+          keyboardDismissMode="interactive"
+          keyboardShouldPersistTaps="handled"
+          scrollToBottomOnKBShow={false}
+          scrollToInputAdditionalOffset={75}
+          startScrolledToBottom={false}
+        >
+          <Component>
+            <Image
+              resizeMode="stretch"
+              source={0}
+            />
+          </Component>
+          <Component
+            style={
+              Array [
+                undefined,
+                undefined,
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              source=""
+              style={
+                Object {
+                  "height": 100,
+                  "width": 200,
+                }
+              }
+            />
+          </Component>
+          <Component>
+            <TextInput
+              allowFontScaling={true}
+              autoCapitalize="none"
+              autoCorrect={false}
+              onChangeText={[Function]}
+              placeholder="[workspace].mongrov.com"
+              underlineColorAndroid="transparent"
+              value=""
+            />
+            <Button
+              buttonStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              color="#3E8EFF"
+              containerStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              onPress={[Function]}
+              title="Confirm"
+            />
+            <Button
+              buttonStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              color="#3E8EFF"
+              containerStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              onPress={[Function]}
+              title="Back"
+            />
+          </Component>
+        </KeyboardAwareScrollView>,
+        "onLayout": [Function],
+        "safeBgColors": Array [],
+        "safeGradLocations": Array [
+          0,
+          1,
+        ],
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "bounces": false,
+          "children": Array [
+            <Component>
+              <Image
+                resizeMode="stretch"
+                source={0}
+              />
+            </Component>,
+            <Component
+              style={
+                Array [
+                  undefined,
+                  undefined,
+                ]
+              }
+            >
+              <Image
+                resizeMode="contain"
+                source=""
+                style={
+                  Object {
+                    "height": 100,
+                    "width": 200,
+                  }
+                }
+              />
+            </Component>,
+            <Component>
+              <TextInput
+                allowFontScaling={true}
+                autoCapitalize="none"
+                autoCorrect={false}
+                onChangeText={[Function]}
+                placeholder="[workspace].mongrov.com"
+                underlineColorAndroid="transparent"
+                value=""
+              />
+              <Button
+                buttonStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                color="#3E8EFF"
+                containerStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                onPress={[Function]}
+                title="Confirm"
+              />
+              <Button
+                buttonStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                color="#3E8EFF"
+                containerStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                onPress={[Function]}
+                title="Back"
+              />
+            </Component>,
+          ],
+          "getTextInputRefs": [Function],
+          "keyboardDismissMode": "interactive",
+          "keyboardShouldPersistTaps": "handled",
+          "scrollToBottomOnKBShow": false,
+          "scrollToInputAdditionalOffset": 75,
+          "startScrolledToBottom": false,
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "children": <Image
+                resizeMode="stretch"
+                source={0}
+              />,
+              "style": undefined,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "resizeMode": "stretch",
+                "source": 0,
+                "style": undefined,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "children": <Image
+                resizeMode="contain"
+                source=""
+                style={
+                  Object {
+                    "height": 100,
+                    "width": 200,
+                  }
+                }
+              />,
+              "style": Array [
+                undefined,
+                undefined,
+              ],
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "resizeMode": "contain",
+                "source": "",
+                "style": Object {
+                  "height": 100,
+                  "width": 200,
+                },
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "children": Array [
+                <TextInput
+                  allowFontScaling={true}
+                  autoCapitalize="none"
+                  autoCorrect={false}
+                  onChangeText={[Function]}
+                  placeholder="[workspace].mongrov.com"
+                  underlineColorAndroid="transparent"
+                  value=""
+                />,
+                <Button
+                  buttonStyle={
+                    Array [
+                      undefined,
+                    ]
+                  }
+                  color="#3E8EFF"
+                  containerStyle={
+                    Array [
+                      undefined,
+                    ]
+                  }
+                  onPress={[Function]}
+                  title="Confirm"
+                />,
+                <Button
+                  buttonStyle={
+                    Array [
+                      undefined,
+                    ]
+                  }
+                  color="#3E8EFF"
+                  containerStyle={
+                    Array [
+                      undefined,
+                    ]
+                  }
+                  onPress={[Function]}
+                  title="Back"
+                />,
+              ],
+              "style": undefined,
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "allowFontScaling": true,
+                  "autoCapitalize": "none",
+                  "autoCorrect": false,
+                  "onChangeText": [Function],
+                  "placeholder": "[workspace].mongrov.com",
+                  "style": undefined,
+                  "underlineColorAndroid": "transparent",
+                  "value": "",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "buttonStyle": Array [
+                    undefined,
+                  ],
+                  "color": "#3E8EFF",
+                  "containerStyle": Array [
+                    undefined,
+                  ],
+                  "onPress": [Function],
+                  "title": "Confirm",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "buttonStyle": Array [
+                    undefined,
+                  ],
+                  "color": "#3E8EFF",
+                  "containerStyle": Array [
+                    undefined,
+                  ],
+                  "onPress": [Function],
+                  "title": "Back",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+            ],
+            "type": [Function],
+          },
+        ],
+        "type": [Function],
+      },
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
+
+exports[`renders an headerCurve 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <SetServer
+    brandLogo={0}
+    headerCurve={77}
+    onConfirmServer={[Function]}
+    safeBgColors={Array []}
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "children": <KeyboardAwareScrollView
+        bounces={false}
+        getTextInputRefs={[Function]}
+        keyboardDismissMode="interactive"
+        keyboardShouldPersistTaps="handled"
+        scrollToBottomOnKBShow={false}
+        scrollToInputAdditionalOffset={75}
+        startScrolledToBottom={false}
+      >
+        <Component>
+          <Image
+            resizeMode="stretch"
+            source={77}
+          />
+        </Component>
+        <Component
+          style={
+            Array [
+              undefined,
+              undefined,
+            ]
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source=""
+            style={
+              Object {
+                "height": 100,
+                "width": 200,
+              }
+            }
+          />
+        </Component>
+        <Component>
+          <TextInput
+            allowFontScaling={true}
+            autoCapitalize="none"
+            autoCorrect={false}
+            onChangeText={[Function]}
+            placeholder="[workspace].mongrov.com"
+            underlineColorAndroid="transparent"
+            value=""
+          />
+          <Button
+            buttonStyle={
+              Array [
+                undefined,
+              ]
+            }
+            color="#3E8EFF"
+            containerStyle={
+              Array [
+                undefined,
+              ]
+            }
+            onPress={[Function]}
+            title="Confirm"
+          />
+          <Button
+            buttonStyle={
+              Array [
+                undefined,
+              ]
+            }
+            color="#3E8EFF"
+            containerStyle={
+              Array [
+                undefined,
+              ]
+            }
+            onPress={[Function]}
+            title="Back"
+          />
+        </Component>
+      </KeyboardAwareScrollView>,
+      "onLayout": [Function],
+      "safeBgColors": Array [],
+      "safeGradLocations": Array [
+        0,
+        1,
+      ],
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "bounces": false,
+        "children": Array [
+          <Component>
+            <Image
+              resizeMode="stretch"
+              source={77}
+            />
+          </Component>,
+          <Component
+            style={
+              Array [
+                undefined,
+                undefined,
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              source=""
+              style={
+                Object {
+                  "height": 100,
+                  "width": 200,
+                }
+              }
+            />
+          </Component>,
+          <Component>
+            <TextInput
+              allowFontScaling={true}
+              autoCapitalize="none"
+              autoCorrect={false}
+              onChangeText={[Function]}
+              placeholder="[workspace].mongrov.com"
+              underlineColorAndroid="transparent"
+              value=""
+            />
+            <Button
+              buttonStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              color="#3E8EFF"
+              containerStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              onPress={[Function]}
+              title="Confirm"
+            />
+            <Button
+              buttonStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              color="#3E8EFF"
+              containerStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              onPress={[Function]}
+              title="Back"
+            />
+          </Component>,
+        ],
+        "getTextInputRefs": [Function],
+        "keyboardDismissMode": "interactive",
+        "keyboardShouldPersistTaps": "handled",
+        "scrollToBottomOnKBShow": false,
+        "scrollToInputAdditionalOffset": 75,
+        "startScrolledToBottom": false,
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "children": <Image
+              resizeMode="stretch"
+              source={77}
+            />,
+            "style": undefined,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "resizeMode": "stretch",
+              "source": 77,
+              "style": undefined,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "children": <Image
+              resizeMode="contain"
+              source=""
+              style={
+                Object {
+                  "height": 100,
+                  "width": 200,
+                }
+              }
+            />,
+            "style": Array [
+              undefined,
+              undefined,
+            ],
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "resizeMode": "contain",
+              "source": "",
+              "style": Object {
+                "height": 100,
+                "width": 200,
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "children": Array [
+              <TextInput
+                allowFontScaling={true}
+                autoCapitalize="none"
+                autoCorrect={false}
+                onChangeText={[Function]}
+                placeholder="[workspace].mongrov.com"
+                underlineColorAndroid="transparent"
+                value=""
+              />,
+              <Button
+                buttonStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                color="#3E8EFF"
+                containerStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                onPress={[Function]}
+                title="Confirm"
+              />,
+              <Button
+                buttonStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                color="#3E8EFF"
+                containerStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                onPress={[Function]}
+                title="Back"
+              />,
+            ],
+            "style": undefined,
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "allowFontScaling": true,
+                "autoCapitalize": "none",
+                "autoCorrect": false,
+                "onChangeText": [Function],
+                "placeholder": "[workspace].mongrov.com",
+                "style": undefined,
+                "underlineColorAndroid": "transparent",
+                "value": "",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "buttonStyle": Array [
+                  undefined,
+                ],
+                "color": "#3E8EFF",
+                "containerStyle": Array [
+                  undefined,
+                ],
+                "onPress": [Function],
+                "title": "Confirm",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "buttonStyle": Array [
+                  undefined,
+                ],
+                "color": "#3E8EFF",
+                "containerStyle": Array [
+                  undefined,
+                ],
+                "onPress": [Function],
+                "title": "Back",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+          ],
+          "type": [Function],
+        },
+      ],
+      "type": [Function],
+    },
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": <KeyboardAwareScrollView
+          bounces={false}
+          getTextInputRefs={[Function]}
+          keyboardDismissMode="interactive"
+          keyboardShouldPersistTaps="handled"
+          scrollToBottomOnKBShow={false}
+          scrollToInputAdditionalOffset={75}
+          startScrolledToBottom={false}
+        >
+          <Component>
+            <Image
+              resizeMode="stretch"
+              source={77}
+            />
+          </Component>
+          <Component
+            style={
+              Array [
+                undefined,
+                undefined,
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              source=""
+              style={
+                Object {
+                  "height": 100,
+                  "width": 200,
+                }
+              }
+            />
+          </Component>
+          <Component>
+            <TextInput
+              allowFontScaling={true}
+              autoCapitalize="none"
+              autoCorrect={false}
+              onChangeText={[Function]}
+              placeholder="[workspace].mongrov.com"
+              underlineColorAndroid="transparent"
+              value=""
+            />
+            <Button
+              buttonStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              color="#3E8EFF"
+              containerStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              onPress={[Function]}
+              title="Confirm"
+            />
+            <Button
+              buttonStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              color="#3E8EFF"
+              containerStyle={
+                Array [
+                  undefined,
+                ]
+              }
+              onPress={[Function]}
+              title="Back"
+            />
+          </Component>
+        </KeyboardAwareScrollView>,
+        "onLayout": [Function],
+        "safeBgColors": Array [],
+        "safeGradLocations": Array [
+          0,
+          1,
+        ],
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "bounces": false,
+          "children": Array [
+            <Component>
+              <Image
+                resizeMode="stretch"
+                source={77}
+              />
+            </Component>,
+            <Component
+              style={
+                Array [
+                  undefined,
+                  undefined,
+                ]
+              }
+            >
+              <Image
+                resizeMode="contain"
+                source=""
+                style={
+                  Object {
+                    "height": 100,
+                    "width": 200,
+                  }
+                }
+              />
+            </Component>,
+            <Component>
+              <TextInput
+                allowFontScaling={true}
+                autoCapitalize="none"
+                autoCorrect={false}
+                onChangeText={[Function]}
+                placeholder="[workspace].mongrov.com"
+                underlineColorAndroid="transparent"
+                value=""
+              />
+              <Button
+                buttonStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                color="#3E8EFF"
+                containerStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                onPress={[Function]}
+                title="Confirm"
+              />
+              <Button
+                buttonStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                color="#3E8EFF"
+                containerStyle={
+                  Array [
+                    undefined,
+                  ]
+                }
+                onPress={[Function]}
+                title="Back"
+              />
+            </Component>,
+          ],
+          "getTextInputRefs": [Function],
+          "keyboardDismissMode": "interactive",
+          "keyboardShouldPersistTaps": "handled",
+          "scrollToBottomOnKBShow": false,
+          "scrollToInputAdditionalOffset": 75,
+          "startScrolledToBottom": false,
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "children": <Image
+                resizeMode="stretch"
+                source={77}
+              />,
+              "style": undefined,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "resizeMode": "stretch",
+                "source": 77,
+                "style": undefined,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "children": <Image
+                resizeMode="contain"
+                source=""
+                style={
+                  Object {
+                    "height": 100,
+                    "width": 200,
+                  }
+                }
+              />,
+              "style": Array [
+                undefined,
+                undefined,
+              ],
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "resizeMode": "contain",
+                "source": "",
+                "style": Object {
+                  "height": 100,
+                  "width": 200,
+                },
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "children": Array [
+                <TextInput
+                  allowFontScaling={true}
+                  autoCapitalize="none"
+                  autoCorrect={false}
+                  onChangeText={[Function]}
+                  placeholder="[workspace].mongrov.com"
+                  underlineColorAndroid="transparent"
+                  value=""
+                />,
+                <Button
+                  buttonStyle={
+                    Array [
+                      undefined,
+                    ]
+                  }
+                  color="#3E8EFF"
+                  containerStyle={
+                    Array [
+                      undefined,
+                    ]
+                  }
+                  onPress={[Function]}
+                  title="Confirm"
+                />,
+                <Button
+                  buttonStyle={
+                    Array [
+                      undefined,
+                    ]
+                  }
+                  color="#3E8EFF"
+                  containerStyle={
+                    Array [
+                      undefined,
+                    ]
+                  }
+                  onPress={[Function]}
+                  title="Back"
+                />,
+              ],
+              "style": undefined,
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "allowFontScaling": true,
+                  "autoCapitalize": "none",
+                  "autoCorrect": false,
+                  "onChangeText": [Function],
+                  "placeholder": "[workspace].mongrov.com",
+                  "style": undefined,
+                  "underlineColorAndroid": "transparent",
+                  "value": "",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "buttonStyle": Array [
+                    undefined,
+                  ],
+                  "color": "#3E8EFF",
+                  "containerStyle": Array [
+                    undefined,
+                  ],
+                  "onPress": [Function],
+                  "title": "Confirm",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "buttonStyle": Array [
+                    undefined,
+                  ],
+                  "color": "#3E8EFF",
+                  "containerStyle": Array [
+                    undefined,
+                  ],
+                  "onPress": [Function],
+                  "title": "Back",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+            ],
+            "type": [Function],
+          },
+        ],
+        "type": [Function],
+      },
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
